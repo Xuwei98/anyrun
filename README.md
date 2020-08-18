@@ -1,6 +1,6 @@
 # anyrun
 app.any.run 
 
-get info of malware by anyrun Public submissions
+get info of malware from anyrun Public submissions
 
 Depend on WebSocket
